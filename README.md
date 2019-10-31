@@ -6,4 +6,5 @@
     <li>attributes</li>
     <li>tags</li>
     <li>semantic tags</li>
+    <li>tags: audio, video, image</li>
 </ul>
