@@ -1,4 +1,5 @@
 # Course Basic HTML5 
+<h3>python -m SimpleHTTPServer port 8000 </h3>
 <ul>
     <li>H1.. H6</li>
     <li>paragraphs</li>
