@@ -4,4 +4,5 @@
     <li>paragraphs</li>
     <li>attributes</li>
     <li>tags</li>
+    <li>semantic tags</li>
 </ul>
